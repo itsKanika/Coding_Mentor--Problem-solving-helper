@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠✨ Code Reviewer — Problem Solving Helper
+# 🧠✨ Code Mentor — Problem Solving Helper
 
 ### Your friendly AI DSA mentor — review, dry-run, and vibe-check your code
 
@@ -71,7 +71,17 @@ Code-Reviewer---Problem-solving-helper/
 
 <br>
 
+
+###  LIVE LINK
+https://itscodebuddy.vercel.app/ 
+
+
 ## 📸 Demo
+
+
+https://github.com/user-attachments/assets/8e1426de-246e-4839-8473-efedc25ae3db
+
+
 
 ### 🩺 Code Review
 
